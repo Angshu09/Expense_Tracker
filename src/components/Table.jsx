@@ -41,7 +41,7 @@ export default function Table({
       {/* Table starts */}
       <table className="w-full">
         <thead>
-          <tr className="grid grid-cols-3 gap-2 text-xs sm:text-sm lg:text-base text-[#06202B]">
+          <tr className="grid grid-cols-3 gap-2 text-sm lg:text-base text-[#06202B]">
             {/* Title Column */}
             <th className="text-left flex rounded-md items-center p-2 bg-iColor">
               Title
